@@ -1,0 +1,251 @@
+#body {
+    margin: 0px;
+    background-color: black;
+    
+}
+
+#menuBar {
+    display: none;
+}
+#border {
+    width: 2000px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#menuNAVBar {
+    display: none;
+}
+#menuNAVBarLINKS {
+    display: none;
+}
+#menuNAVBarLINKS a {
+    display: none;
+}
+#menuNAVBarLINKS a:hover {
+    display: none;
+}
+#topbar {
+    background-color: black;
+    width: 100%;
+    height: 150px;
+}
+
+#topbar ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style-type: none;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    float: right;
+    text-align: right;
+}
+
+#topbar a {
+    text-decoration: none;
+    color: white;
+    width: 500px;
+    position: relative;
+    left: -300px;
+    background-color: transparent;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+#topbar a:hover {
+    text-decoration: none;
+    color: white;
+    width: 500px;
+    position: relative;
+    left: -300px;
+    background-color: transparent;
+    padding: 10px;
+    font-size: 20px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+#topbar li {
+    position: relative;
+    top: 80px;
+    width: 200px;
+
+}
+
+#banner {
+    width: 100%;
+    height: 700px;
+    background-color: transparent;
+    background-image: url("54345435345353.jpg");
+    background-size: cover;
+}
+
+#circleimage {
+    border-radius: 100%;
+    width: 200px; 
+    height: 200px;
+    position: relative;
+    
+}
+#exquisite {
+    color:gray;
+    font-size:20px;
+    font-weight:normal;
+}
+#bannertexttop {
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 70px;
+    margin-bottom: 20px;
+}
+
+#bannertext {
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 24px;
+}
+
+#bannercontainer {
+    position: relative;
+    top: 200px;
+    height: 500px;
+}
+
+#bannerbutton {
+    background-color: orange;
+    text-align: center;
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    border-radius: 10px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 100px;
+    text-decoration: none;
+
+}
+
+#bannerbutton a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    line-height: 90px;
+}
+
+#services {
+    background-color: white;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    font-size: 53px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#information {
+    margin: 0;
+    width: 100%;
+    height: 700px;
+    background-color: rgb(230, 230, 230);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#informationcenter {
+    width: 450px;
+    display: inline-block;
+    background-color: rgb(242, 242, 242);
+    font-size: 35px;
+    margin-right: 20px;
+    position: relative;
+    top: 100px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+#informationleft {
+    width: 450px;
+    background-color: rgb(242, 242, 242);
+    display: inline-block;
+    font-size: 35px;
+    margin-right: 20px;
+    position: relative;
+    top: 100px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+#informationright {
+    width: 450px;
+    background-color: rgb(242, 242, 242);
+    display: inline-block;
+    font-size: 35px;
+    margin-right: 20px;
+    position: relative;
+    top: 100px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+#footer {
+    width: 70%;
+    height: 300px;
+    margin: 0 auto;
+    background-color: rgb(72, 61, 139);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#footer ul {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    position: relative;
+    top: 20px;
+    font-size: 40px;
+}
+
+#footer a {
+    text-decoration: none;
+    color: white;
+}
+
+#bigfooter {
+    width: 100%;
+    height: 350px;
+    background-color: rgb(72, 61, 139);
+    margin-top: 0px;
+    margin-right: 0px;
+}
+
+#socials {
+    text-align: center;
+    width: 700px;
+    background-color: transparent;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 60px;
+    clear: both;
+}
+#copyright {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    text-align: center; 
+    color: white; 
+    font-size: 20px;
+}
+#mobileregistrationform {
+    display: none;
+}
